@@ -1,0 +1,32 @@
+/*comentario*/
+body {
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+font-family: "Pacifico", cursive;
+}
+.floresverdes{
+    width: 200px;
+    border-radius: 20px;
+    border: dashed;
+}
+.floresrosas {
+    width: 250px;
+    border-radius: 10px;
+
+}
+
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.tipos{
+    
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkJiZeVFiiULqo1BJiJq2ZKdaJP-YerE_MVg&s");
+
+}
+
+.tipos{
+    text-align: center;
+}
